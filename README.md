@@ -16,7 +16,7 @@ Usage
 -----
 To start a new science project:
 
-`cookiecutter gl:stfnnfts/cookiecutter-reproducible-research-project`
+`cookiecutter gh:stfnnfts/cookiecutter-reproducible-research-project`
 
 Project Structure
 -----------------
