@@ -1,0 +1,11 @@
+{
+    "full_name": "Stefan Ruschke",
+    "email": "stefan.ruschke@tum.de",
+    "github_username": "stfnr",
+    "project_name": "Name of the project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "project_short_description": "A short project description.",
+    "release_date": "{% now 'local' %}",
+    "version": "0.1.0",
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
